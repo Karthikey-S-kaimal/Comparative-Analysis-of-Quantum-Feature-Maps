@@ -36,33 +36,6 @@ It also includes a foundational exploration of different approaches for encoding
 
 The project consists of two main layers.
 
-## Layer 1 — Quantum Data Encoding
-
-Different fundamental quantum encoding techniques were explored using representative samples from the Iris dataset.
-
-### Encoding techniques studied
-
-**Basis Encoding**
-
-Represents discretized classical information using computational basis states and X gates.
-
-**Angle Encoding**
-
-Maps feature values to rotation angles of quantum gates, with one feature represented per qubit.
-
-**Amplitude Encoding**
-
-Represents normalized classical values as amplitudes of a quantum state.
-
-**Phase Encoding**
-
-Encodes information in the relative phase of quantum states.
-
-**Dense Encoding**
-
-Combines rotation and phase information to represent multiple feature values using fewer qubits compared with conventional angle or phase encoding.
-
-The implementation and demonstrations for this layer are contained in:
 
 ```text
 featuremap.ipynb
@@ -70,7 +43,7 @@ featuremap.ipynb
 
 ---
 
-# Layer 2 — Feature Map Comparison
+#  Feature Map Comparison
 
 The main experimental study compares three Qiskit feature maps.
 
