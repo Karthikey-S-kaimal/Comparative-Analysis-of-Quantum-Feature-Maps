@@ -22,7 +22,6 @@ It also includes a foundational exploration of different approaches for encoding
 
 ## Project Objectives
 
-* Understand different classical-to-quantum data encoding techniques.
 * Study how quantum feature maps transform classical features into quantum states.
 * Compare ZFeatureMap, ZZFeatureMap, and PauliFeatureMap.
 * Analyze circuit depth and gate complexity.
