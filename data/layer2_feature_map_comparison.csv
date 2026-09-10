@@ -1,0 +1,10 @@
+sample,feature_map,n_qubits,depth,total_gates,single_qubit_gates,two_qubit_gates,meyer_wallach_Q,transpiled_depth,transpiled_two_qubit_gates
+setosa,ZFeatureMap,4,4,16,16,0,6.161737786669619e-15,5,0
+setosa,ZZFeatureMap,4,31,52,28,24,0.7557440576106156,33,24
+setosa,PauliFeatureMap,4,45,108,84,24,0.7341668465824939,37,24
+versicolor,ZFeatureMap,4,4,16,16,0,4.884981308350689e-15,5,0
+versicolor,ZZFeatureMap,4,31,52,28,24,0.45870119144128835,24,12
+versicolor,PauliFeatureMap,4,45,108,84,24,0.43474949968702375,28,12
+virginica,ZFeatureMap,4,4,16,16,0,5.495603971894525e-15,5,0
+virginica,ZZFeatureMap,4,31,52,28,24,0.8483211862281815,33,24
+virginica,PauliFeatureMap,4,45,108,84,24,0.9145047470356017,37,24
