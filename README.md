@@ -312,4 +312,4 @@ The study can be extended by:
 B.Tech Computer Science and Engineering
 Chinmaya Vishwa Vidyapeeth
 
-This project is part of a quantum computing portfolio focused on quantum data encoding, feature-map design, circuit analysis, and quantum machine-learning foundations.
+This project is part of a quantum computing portfolio focused on  feature-map design, circuit analysis, and quantum machine-learning foundations.
